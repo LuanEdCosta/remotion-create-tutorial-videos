@@ -24,7 +24,7 @@ Create simple tutorial videos programmatically with React and [Remotion](https:/
 
 ## :page_with_curl: About
 
-This project contais some video templates created with React that you can use to create simple tutorial videos. This was the first test i made with the Remotion and i have some ideas of what to do next.
+This project contais some video templates created with React that you can use to create simple tutorial videos. This was the first test I made with the Remotion and I have some ideas of what to do next.
 
 ## :rocket: How to run
 
