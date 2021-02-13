@@ -2,6 +2,8 @@
 
 Create simple tutorial videos programmatically with React and [Remotion](https://www.remotion.dev/).
 
+The GIF below shows a video created with this project.
+
 <img src="./video-example.gif" alt="Example" />
 
 <p>
