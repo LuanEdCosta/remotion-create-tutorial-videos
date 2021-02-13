@@ -1,0 +1,30 @@
+{
+	"title": "Remotion Tutorial",
+	"description": "Remotion is a tool that allows you to create videos programmatically with React. You can fetch data from an API, create animations and much more.",
+	"author": "Luan Eduardo da Costa",
+	"template": "ImageBased",
+	"introductionDurationInSeconds": 7,
+
+	"content": [
+		{
+			"title": "Step 1: Install FFmpeg",
+			"image": "example/step1.jpg",
+			"durationInSeconds": 7
+		},
+		{
+			"title": "Step 2: Install Node.js",
+			"image": "example/step2.jpg",
+			"durationInSeconds": 7
+		},
+		{
+			"title": "Step 3: Create a New Project",
+			"image": "example/step3.jpg",
+			"durationInSeconds": 7
+		},
+		{
+			"title": "Step 4: Run The Project",
+			"image": "example/step4.jpg",
+			"durationInSeconds": 7
+		}
+	]
+}
