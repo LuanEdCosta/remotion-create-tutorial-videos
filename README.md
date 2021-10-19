@@ -1,4 +1,4 @@
-# :movie_camera: remotion-create-tutorial-videos
+# :movie_camera: Remotion Create Tutorial Videos
 
 Create simple tutorial videos programmatically with React and [Remotion](https://www.remotion.dev/).
 
@@ -49,4 +49,4 @@ $ yarn start
 
 ## :man: Author
 
-Luan Eduardo da Costa | luan1346@gmail.com
+Luan Eduardo da Costa | [Follow me on Linkedin](https://www.linkedin.com/in/luaneducosta/)
